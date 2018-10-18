@@ -1,0 +1,31 @@
+.me {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.small {
+	width: 60px;
+	height: 58px;
+}
+iframe {
+	width: 80%;
+	height: 60vh;
+	min-width: 300px;
+
+}
+.img {
+height: 400px;
+}
+.mee {
+	padding: 10px;
+}
+.imgss {
+	height: 180px;
+	width: 300px;
+}
+.fixed {
+	position: sticky;
+	top: 0px;
+	z-index: 10; 
+}
